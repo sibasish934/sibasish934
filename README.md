@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sibasish-satapathy-9a603a206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sibasish-satapathy-9a603a206" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@sibasishsatpath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sibasishsatpath1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sibasishsatpath1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sibasishsatpath1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sibasish_934" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sibasish_934" height="30" width="40" /></a>
 <a href="/https://sibasishblogs.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://sibasishblogs.blogspot.com/" height="30" width="40" /></a>
 </p>
