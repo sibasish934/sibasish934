@@ -30,3 +30,7 @@
 <p><a href="https://ko-fi.com/Sibasish"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sibasish" /></a></p><br><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sibasish934&show_icons=true&locale=en&layout=compact" alt="sibasish934" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sibasish934&label=Profile%20views&color=0e75b6&style=plastic" alt="sibasish934" /> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sibasish934&show_icons=true&title_color=7f2462&locale=en" alt="sibasish934" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibasish934&theme=dark" alt="sibasish934" /></p>
