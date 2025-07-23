@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sibasish Satapathy</h1>
 <h3 align="center">I am currently pursuing Btech in Computer science and engineering from silicon institute of technology. Eger towards Learning ML and cloud computing.</h3>
 
-- 🔭 I’m currently working on **Ecommerce Website**
+- 🔭 I’m currently working for **Fintech Organization**, setting and managing their application both in onprem and AWS cloud. 
 
-- 🌱 I’m currently learning **Devops tools (jenkins, ansible, terraform).**
+- 🌱 I’m currently learning **Devops tools (Istio Service Mesh, LinkerD).**
  
 - 👨‍💻 All of my projects are available at [https://sibasish.netlify.app/](https://sibasish.netlify.app/)
   
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Html,Css,Js, React JS, Aws, Azure**
 
-- 📫 How to reach me **sibasishsatpathy2002@gmail.com**
+- 📫 How to reach me **sibasish.satapathy@outlook.com**
 
 - ⚡ Fun fact **keen to new technologies based on cloud computing.**
 
