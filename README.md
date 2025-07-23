@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sibasish Satapathy</h1>
-<h3 align="center">I am currently pursuing Btech in Computer science and engineering from silicon institute of technology. Eger towards Learning ML and cloud computing.</h3>
+<h3 align="center">I am completed my Btech Degree in Computer science and engineering from silicon institute of technology. Eger towards Learning ML and cloud computing.</h3>
 
 - 🔭 I’m currently working for **Fintech Organization**, setting and managing their application both in onprem and AWS cloud. 
 
